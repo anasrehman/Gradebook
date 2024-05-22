@@ -110,7 +110,7 @@ This example calculates the class average, determines the grade and passing stat
 
 Here's a screenshot of the Gradebook app in action:
 
-![Gradebook App Screenshot](https://user-images.githubusercontent.com/yourusername/yourrepository/screenshot.png)
+![Gradebook App Screenshot](gradebook.JPG)
 
 ## Contribution
 
